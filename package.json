@@ -1,5 +1,5 @@
 {
-  "name": "vcfvct-eslint-config-ts",
+  "name": "eslint-config-ts-vcfvct",
   "version": "1.0.0",
   "description": "shared eslint config for typescript",
   "main": "index.js",

@@ -1,10 +1,10 @@
 ## Usage
 install the package
-* `npm i vcfvct-eslint-config-ts`
+* `npm i eslint-config-ts-vcfvct`
 * extends rules in eslint config js/json/yaml...
     ```
       {
-        "extends": "vcfvct-eslint-config-ts"
+        "extends": "eslint-config-ts-vcfvct"
       }
     ```
 
