@@ -1,0 +1,21 @@
+{
+  "name": "vcfvct-eslint-config-ts",
+  "version": "1.0.0",
+  "description": "shared eslint config for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://www.github.com/vcfvct-eslint-config-ts.git",
+  "keywords": [
+    "eslint",
+    "typescript",
+    "vcfvct"
+  ],
+  "author": "Han Li",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
+
