@@ -7,7 +7,6 @@ module.exports = {
     '@typescript-eslint/no-non-null-assertion': 'off',
     '@typescript-eslint/no-use-before-define': 'off',
     '@typescript-eslint/no-empty-interface': 'off',
-    '@typescript-eslint/class-name-casing': 'error',
     '@typescript-eslint/explicit-function-return-type': ['warn', {allowExpressions: true}],
     indent: 'off',
     '@typescript-eslint/indent': ['error', 2],
